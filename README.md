@@ -21,6 +21,6 @@ Sou Reulyson Wanzeler, engenheiro em Controle e Automação com um objetivo clar
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=reulyson&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=reulyson&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com//reulyson?tab=repositories)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=reulyson&repo=desafio_trainee&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com//reulyson?tab=repositories)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=reulyson&repo=robo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com//reulyson?tab=repositories)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=reulyson&repo=analise_financeira&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/reulyson/analise_financeira)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=reulyson&repo=desafio_trainee&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/reulyson/desafio_trainee)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=reulyson&repo=robo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/reulyson/robo)
