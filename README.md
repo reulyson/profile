@@ -1,5 +1,5 @@
 # Reulyson
-Sou Reulyson Wanzeler, engenheiro em Controle e Automação com um objetivo claro: ingressar na área de análise e ciência de dados. Com sólida formação técnica e apaixonado por resolver problemas complexos, estou pronto para aplicar minhas habilidades em programação, análise estatística e modelagem de dados para impulsionar a inovação e gerar insights valiosos a partir de conjuntos de dados diversos.
+Desenvolvedor e formado em Engenharia de Controle e Automação. Atualmente, estou focado em programação, com ênfase em Python e seus frameworks como Django. Tenho experiência em criar soluções robustas e eficientes e adoro me desafiar a resolver problemas técnicos complexos. Além disso, estou sempre me desenvolvendo e aprimorando minhas habilidades em back end. Busco constantemente maneiras inovadoras de aplicar minhas competências para entregar soluções que realmente fazem a diferença. Vamos trocar ideias e explorar novas oportunidades!
 
 ## Conecte-se comigo
 
