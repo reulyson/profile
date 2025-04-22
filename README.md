@@ -21,7 +21,7 @@ Sou Reulyson Wanzeler, engenheiro em Controle e Automação com um objetivo clar
 
 ## Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reulyson&hide=html,css,javascript&theme=dark&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&custom_title=Estatísticas+Python%2FSQL&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reulyson&hide=html,css&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reulyson&hide=html,css&layout=compact&theme=dark&title_color=E94D5F)
 
 ![Data Science](https://img.shields.io/badge/Formação_Data_Science-Alura-00C86F)
 
