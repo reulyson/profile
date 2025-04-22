@@ -7,18 +7,23 @@ Sou Reulyson Wanzeler, engenheiro em Controle e Automação com um objetivo clar
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:reulyson@gmail.com)
 
 
-## Habilidades
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Habilidades  
+### Linguagens  
+![Python](https://img.shields.io/badge/Python-Intermediário-3670A0?logo=python)  
+![SQL](https://img.shields.io/badge/SQL-Intermediário-4479A1?logo=mysql)  
+
+### Análise de Dados  
+![Pandas](https://img.shields.io/badge/Pandas-Básico-150458?logo=pandas)  
+![Power BI](https://img.shields.io/badge/Power_BI-Básico-F2C811?logo=powerbi)  
+
+### Controle de Versão  
+![Git](https://img.shields.io/badge/Git-Intermediário-E44C30?logo=git) 
 
 ## Git Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reulyson&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=reulyson&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reulyson&hide=html,css,javascript&theme=dark&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&custom_title=Estatísticas+Python%2FSQL&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reulyson&hide=html,css&layout=compact&theme=dark)
+
+![Data Science](https://img.shields.io/badge/Formação_Data_Science-Alura-00C86F)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=reulyson&repo=analise_financeira&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/reulyson/analise_financeira)
